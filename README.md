@@ -34,4 +34,4 @@ Privacy information can be found at https://privacy.microsoft.com/en-us/
 Microsoft and any contributors reserve all others rights, whether under their respective copyrights, patents,
 or trademarks, whether by implication, estoppel or otherwise.
 ![Снимок](https://user-images.githubusercontent.com/83637674/146057304-9e33d1e6-f5db-40a4-b0f9-ded8c44ad19b.JPG)
-
+ 
